@@ -12,6 +12,7 @@ Beautybebo Website Clone
 # Features
 - Product Listing
 - Routing of Multiple Pages
+- Conditional Rendering
 - Pagination 
 - Sorting of the Products
 
