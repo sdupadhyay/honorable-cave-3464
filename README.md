@@ -5,10 +5,11 @@ RCT 101(Individual Project)
 # Project Name
 Beautybebo Website Clone
 # Tech Stack
-- REACT
-- HTML
-- CSS
-- JSON SERVER
+- `REACT`
+- `Java Script`
+- `HTML`
+- `CSS`
+- `JSON SERVER`
 # Features
 - Product Listing
 - Routing of Multiple Pages
